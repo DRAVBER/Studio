@@ -1,4 +1,4 @@
-# Studio — React site and CMS
+# 🟣 Studio — React site and CMS
 
 Copyright (c) 2026 DRAVBER. Лицензия: [LICENSE.md](LICENSE.md). Контакт автора: Telegram @xDRAVBER.
 
