@@ -1,6 +1,7 @@
 # 🟣 Studio — React site and CMS
 
-# ⚠️ Copyright (c) 2026 DRAVBER. Лицензия: [LICENSE.md](LICENSE.md). Контакт автора: Telegram @xDRAVBER.
+# ⚠️ Copyright (c) 2026 DRAVBER. 
+Лицензия: [LICENSE.md](LICENSE.md). Контакт автора: Telegram @xDRAVBER.
 
 Тестовый MVP сайта студии: портфолио, услуги, интерактивный блок, форма обращения и админка с CRUD и сортировкой проектов. Дизайн адаптирован для телефона, планшета и компьютера.
 
