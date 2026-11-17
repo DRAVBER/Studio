@@ -1,0 +1,14 @@
+{
+  "name": "studio-site",
+  "private": true,
+  "workspaces": ["server", "web"],
+  "scripts": {
+    "dev": "concurrently -n api,web -c magenta,cyan \"npm:dev:server\" \"npm:dev:web\"",
+    "dev:server": "npm run dev --workspace=@studio/server",
+    "dev:web":    "npm run dev --workspace=@studio/web",
+    "build": "npm run build --workspace=@studio/web",
+    "start": "npm run start --workspace=@studio/server",
+    "test":  "npm run test --workspace=@studio/server"
+  },
+  "devDependencies": { "concurrently": "^9.1.0" }
+}
